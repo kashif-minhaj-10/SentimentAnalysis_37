@@ -1,0 +1,32 @@
+=======================================================
+        SENTIMENT ANALYSIS — SUMMARY REPORT
+=======================================================
+
+Generated on : 2026-03-25 20:01:41
+
+OVERVIEW
+------------------------------
+Total texts analyzed : 25
+Overall sentiment    : Positive
+
+SENTIMENT BREAKDOWN
+------------------------------
+Positive : 15  (60.0%)
+Negative : 5  (20.0%)
+Neutral  : 5  (20.0%)
+
+SCORE AVERAGES
+------------------------------
+Average polarity     : +0.0881
+Average subjectivity : 0.5882
+
+HIGHLIGHTS
+------------------------------
+Most positive text (polarity +0.8000):
+  "I am so happy with this product. It exceeded all my expectations."
+
+Most negative text (polarity -1.0000):
+  "Terrible product. Broke after just two days of use."
+
+=======================================================
+End of report
